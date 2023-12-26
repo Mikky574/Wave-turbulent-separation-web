@@ -1,0 +1,16 @@
+uvicorn[standard]
+python-multipart
+fastapi
+xxhash
+python-magic
+python-jose[cryptography]
+passlib[argon2]
+sqlmodel
+sqlalchemy
+pydantic>=2.5
+brotli-asgi
+
+theine
+
+rich
+scipy
